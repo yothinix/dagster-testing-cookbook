@@ -9,7 +9,7 @@ const config = {
   title: 'Dagster Testing Cookbook',
   tagline: 'A set of testing recipe for building your data pipeline with ease',
   url: 'https://dagster-cookbook.yothinix.com',
-  baseUrl: '/',
+  baseUrl: '/dagster-testing-cookbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
